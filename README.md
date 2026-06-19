@@ -34,7 +34,7 @@ AI Engineer | Computer Vision | Deep Learning | MLOps | Full Stack
 | # | Project | Description | Tech Stack | Live |
 |---|---------|-------------|------------|------|
 | 🏆 | **CrowdSeen** | Real-time video anomaly detection — 92.4% AUC, 86.8% accuracy | X3D-Small, XGBoost, OpenCV, Python | — |
-| 🍽️ | **Asian Express Nuremberg** | Full-stack restaurant web app with menu, ordering and Prisma database | Next.js, TypeScript, Prisma, Tailwind CSS, Vercel | [Live](https://asian-express-nuremberg.vercel.app) |
+| 🍽️ | **Tandoori Flames** | Full-stack restaurant web app for a real German client with dynamic menu and order management | Next.js, TypeScript, Prisma, Tailwind CSS | [Live](https://www.tandooriflamess.de/) |
 | 🤖 | **RAG Pipeline** | Document Q&A system with retrieval-augmented generation | FAISS, LLMs, OpenAI API, Python | — |
 | ⚙️ | **MLOps Pipeline** | End-to-end ML lifecycle with CI/CD and cloud deployment | Docker, AWS EC2/S3, MLflow, DVC, FastAPI | — |
 | 🪖 | **Safety Helmet Detection** | Real-time PPE detection for construction safety compliance | YOLOv8, Roboflow, Python | — |
